@@ -4,7 +4,12 @@
 로그인 Login.js
 회원가입 Join.js
 
-*Notice
+수정+새로운 파일 : App.js,Cart.js, Login.js, Join.js, index.js(원래 이랬는지 아닌지 기억이 안나서 일단은 같이 첨부해욤)
+
+설치한 module
+- react-router-dom(npm install react-router-dom)
+
+*Notice*
 
 - App.js에서 Cart.js, Login.js, Join.js로 라우팅되도록 넣어놓았어욤
 
